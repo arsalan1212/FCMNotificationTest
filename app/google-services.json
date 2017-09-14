@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "534080530009",
+    "firebase_url": "https://fcmnotificationtest-22d16.firebaseio.com",
+    "project_id": "fcmnotificationtest-22d16",
+    "storage_bucket": "fcmnotificationtest-22d16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534080530009:android:de30d02456e4eca6",
+        "android_client_info": {
+          "package_name": "com.fcm.arsalankhan.fcmnotificationtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534080530009-ac6jvm94plorhk5kurjf021jsq5bb7u2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fcm.arsalankhan.fcmnotificationtest",
+            "certificate_hash": "5af21edfb850a43bf6e3adcd475db8144271a336"
+          }
+        },
+        {
+          "client_id": "534080530009-ok9dj40t3gjf46fd53njqfc2ilrhjlu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZLH9lIT--BNZWtnQLBVxCXjT4AUIfgcI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534080530009-ok9dj40t3gjf46fd53njqfc2ilrhjlu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
